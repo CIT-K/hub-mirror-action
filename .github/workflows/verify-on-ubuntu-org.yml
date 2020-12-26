@@ -17,6 +17,6 @@ jobs:
         account_type: org
         # Only sync Kunpeng
         black_list: 'KAE'
-        white_list: 'hub-mirror-action,gitee-pages-action,KAE,Kunpeng,kunpengcompute.github.io'
+        white_list: 'gitee-pages-action,hub-mirror-action'
         force_update: true
         debug: true
